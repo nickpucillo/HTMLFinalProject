@@ -1,8 +1,8 @@
 h1
 {
-    font-family: Arial;
-    font-size: 20px;
-    color: navy; 
+    font-family: Arial;/*Sets font to Arial*/
+    font-size: 20px;/*Sets font size to 20px*/
+    color: navy; /*Sets font color to navy*/
 
 
 
@@ -10,8 +10,8 @@ h1
 
 p
 {
-    font-family: Arial;
-    font-size: 16px;
+    font-family: Arial;/*Sets font to Arial*/
+    font-size: 16px;/*Sets font size to 16px*/
     
 
 
@@ -21,16 +21,16 @@ p
 h3
 {
    
-    font-size: 18px;
-    font-family: Arial;
-    color: navy; 
+    font-size: 18px;/*Sets font size to 18px*/
+    font-family: Arial;/*Sets font to Arial*/
+    color: navy; /*Sets font color to navy*/
 
 }
 
 li{
-    font-family:  sans-serif;
-    font-size: 18px;
-    color: #333333;
+    font-family:  sans-serif;/*Sets font to sans-serif*/
+    font-size: 18px;/*Sets font size to 18px*/
+    color: #333333;/*Sets font color to #333333*/
 
 
     
@@ -38,12 +38,13 @@ li{
 
 h2
 {
-    font-family: Arial;
-    font-size: 20px;
-    color:navy;
+    font-family: Arial;/*Sets font to Arial*/
+    font-size: 20px;/*Sets font size to 20px*/
+    color:navy;/*Sets font color to navy*/
 }
 
 body
 {
-    background-color: lightblue;
+    background-color: lightblue;/*Sets background color to lightblue*/
+    margin: 20px;/*Sets margin to 20px*/
 }
