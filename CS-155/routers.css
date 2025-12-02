@@ -1,0 +1,49 @@
+h1
+{
+    font-family: Arial;
+    font-size: 20px;
+    color: navy; 
+
+
+
+}
+
+p
+{
+    font-family: Arial;
+    font-size: 16px;
+    
+
+
+
+}
+
+h3
+{
+   
+    font-size: 18px;
+    font-family: Arial;
+    color: navy; 
+
+}
+
+li{
+    font-family:  sans-serif;
+    font-size: 18px;
+    color: #333333;
+
+
+    
+}
+
+h2
+{
+    font-family: Arial;
+    font-size: 20px;
+    color:navy;
+}
+
+body
+{
+    background-color: lightblue;
+}
