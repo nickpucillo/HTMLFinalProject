@@ -1,13 +1,12 @@
 h1,h2{
-    font-family: Arial;
-    font-size: 22px;
-    color: #333333;
-    color: navy;
+    font-family: Arial;/*Sets font to Arial*/
+    font-size: 22px;/*Sets font size to 22px*/
+    color: navy;/*Sets font color to navy*/
 }
 
 p{ 
-    font-family: Arial;
-     font-size: 18px;
+    font-family: Arial;/*Sets font to Arial*/
+     font-size: 18px;/*Sets font size to 18px*/
      
      
     
@@ -16,9 +15,9 @@ p{
 
 }
 li{
-    font-family:  sans-serif;
-    font-size: 18px;
-    color: #333333;
+    font-family:  sans-serif;/*Sets font to sans-serif*/
+    font-size: 18px;/*Sets font size to 18px*/
+    color: #333333;/*Sets font color to #333333*/
     
 
 
@@ -27,11 +26,11 @@ li{
 
 h3 
 {
-    font-family: Arial;
+    font-family: Arial;/*Sets font to Arial*/
     font-size: 18px;
-    color: navy;
+    color: navy;/*Sets font color to navy*/
 }
 body{
-    margin: 20px;
-    background-color: lightblue;
+    margin: 20px;/*Sets margin to 20px*/
+    background-color: lightblue;/*Sets background color to lightblue*/
 }
